@@ -3,4 +3,4 @@ Une super démo de git qui se passe bien !!!
 
 Modifié depuis github !!
 
-Mais aussi en locale :-P
+Mais aussi en locale :-P et c'est génial !!
